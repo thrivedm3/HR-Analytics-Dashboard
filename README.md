@@ -25,15 +25,6 @@ Give HR and business stakeholders a self-serve, filterable view of headcount and
 - 🎂 **Average Age** - average age across the workforce
 - ⏳ **Average Experience** - average tenure (years at company)
 
-Supporting visuals break these KPIs down by:
-- 🏢 **Department** (donut chart, funnel chart) — where attrition and headcount concentrate
-- 💰 **Salary Slab** (bar chart) — whether pay band correlates with attrition
-- 🧑‍💼 **Job Role & Job Satisfaction** (pivot table) — which roles/satisfaction levels see the most turnover
-- 🎈 **Age Group** (column chart) — workforce age distribution
-- ⚧️ **Gender** (pie chart) — attrition split by gender
-- 📅 **Years of Experience** (area chart) — attrition trend as tenure increases
-- 🎛️ Department and Age Group **slicers** let users filter the entire page interactively.
-
 ### 💡 Business Insight
 - 🎯 Pinpoints the departments and salary bands with the highest attrition, enabling targeted retention budgets instead of blanket policies.
 - 🌱 Highlights whether attrition is concentrated among newer or more tenured employees, informing onboarding vs. long-term retention strategy.
